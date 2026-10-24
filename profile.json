@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Kidknightik",
-  "seed": "#2C3232",
+  "seed": "#172121",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -69,6 +69,18 @@
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "c++"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "java script"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "html"
           }
         ]
       },
