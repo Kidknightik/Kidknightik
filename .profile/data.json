@@ -1,0 +1,302 @@
+{
+ "key": "6b0ea28b",
+ "stars": 3,
+ "contributions": 92,
+ "repos": 12,
+ "followers": 2,
+ "languages": [
+  [
+   "Python",
+   493007
+  ],
+  [
+   "HTML",
+   276730
+  ],
+  [
+   "TeX",
+   66828
+  ],
+  [
+   "Java",
+   53367
+  ],
+  [
+   "Vue",
+   11165
+  ],
+  [
+   "QML",
+   8972
+  ],
+  [
+   "JavaScript",
+   5916
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "Horaizan",
+   "url": "https://github.com/wonordel/Horaizan",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "farmmod",
+   "url": "https://github.com/Kidknightik/farmmod",
+   "text": "farm mod for minecraft 1.21.10",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Play_code.github.io",
+   "url": "https://github.com/Kidknightik/Play_code.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "win10-audio-overlay",
+   "url": "https://github.com/Kidknightik/win10-audio-overlay",
+   "text": "audio overlay on kde plasma 6.5 look like windows 10 overlay",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "fastzip",
+   "url": "https://github.com/Kidknightik/fastzip",
+   "text": "Fast parallel .fzip archiver with GUI and CLI",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "win10-audio-overlay",
+   "url": "https://github.com/Kidknightik/win10-audio-overlay",
+   "text": "audio overlay on kde plasma 6.5 look like windows 10 overlay",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pywordle",
+   "url": "https://github.com/Kidknightik/pywordle",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Kidknightik",
+   "url": "https://github.com/Kidknightik/Kidknightik",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "sftp_transfer",
+   "url": "https://github.com/Kidknightik/sftp_transfer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "planday",
+   "url": "https://github.com/Kidknightik/planday",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  },
+  {
+   "name": "SkyClimber",
+   "url": "https://github.com/Kidknightik/SkyClimber",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "simplegame",
+   "url": "https://github.com/Kidknightik/simplegame",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "funpaybot",
+   "url": "https://github.com/Kidknightik/funpaybot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "autotrash",
+   "url": "https://github.com/Kidknightik/autotrash",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Play_code.github.io",
+   "url": "https://github.com/Kidknightik/Play_code.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "farmmod",
+   "url": "https://github.com/Kidknightik/farmmod",
+   "text": "farm mod for minecraft 1.21.10",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
