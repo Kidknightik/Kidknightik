@@ -1,9 +1,9 @@
 {
- "key": "67b78f4f",
- "stars": 3,
+ "key": "a61afce",
+ "stars": 4,
  "contributions": 93,
  "repos": 13,
- "followers": 3,
+ "followers": 4,
  "languages": [
   [
    "Python",
@@ -191,6 +191,15 @@
  ],
  "all": [
   {
+   "name": "Kidknightik",
+   "url": "https://github.com/Kidknightik/Kidknightik",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "fastzip",
    "url": "https://github.com/Kidknightik/fastzip",
    "text": "Fast parallel .fzip archiver with GUI and CLI",
@@ -222,15 +231,6 @@
    "url": "https://github.com/Kidknightik/actions_oplus_sm8750_customrom",
    "text": "OnePlus SM8750 | custom rom kernel builder |BakaSU/KernelSU Next/KernelSU/SukiSU Ultra + SUSFS",
    "fork": true,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Kidknightik",
-   "url": "https://github.com/Kidknightik/Kidknightik",
-   "text": "My GitHub profile",
-   "fork": false,
    "stars": 0,
    "language": null,
    "topics": []
